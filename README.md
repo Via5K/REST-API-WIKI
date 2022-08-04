@@ -62,6 +62,7 @@ Download Mongo Robot 3T, connnect to the local databse. And you will see alist o
 
 Choose a Databse create a collection and add/edit/remove the documents.
 Below is the screenshot.
+![image](https://user-images.githubusercontent.com/72505269/182789211-1e6d4464-c48c-4b13-9460-56894d6bafdb.png)
 
 
 To Send different requests You can either create multiple forms or you can simply use ```POSTMAN```. A free tool to send different types of requests that are: ```POST, GET, DELETE, PUT, PATCH```. 
@@ -69,6 +70,8 @@ To Send different requests You can either create multiple forms or you can simpl
 Make sure that while you are sending requests, you provide the correct ```endpoint``` and route.
 
 While Using POST route make sure that in Body, ```x-www-form-urlencoded``` is selected and in ```KEY```: You type ```articleTitle``` and ```articleContent```.
+![image](https://user-images.githubusercontent.com/72505269/182787696-db9db5da-51c1-4b54-b39f-929bd0df7ae4.png)
 
 
 And when using ```PATCH ``` Route,  make sure that in Body, ```x-www-form-urlencoded``` is selected and in ```KEY```: You type ```title``` and ```content```.
+![image](https://user-images.githubusercontent.com/72505269/182787567-602bc41c-f5b7-4cf5-a20a-971a47fa8f42.png)
